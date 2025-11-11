@@ -20,3 +20,4 @@ Currently focused on UE5 gameplay systems.
 ### 🔗 Links
 - 💻 **Game Projects**: [ToonTankRemake](https://github.com/YChHuang/ToonTankRemake)
 - 🎨 **Art Portfolio**: [ArtStation](https://www.artstation.com/earl_hanlander)
+- 📊 **LeetCode**: [https://leetcode.com/u/YChHuang/]
