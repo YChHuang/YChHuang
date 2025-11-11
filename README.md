@@ -1,6 +1,6 @@
 # Hi, I'm Chieh 👋
 
-## Game Developer | UE5 Programmer | Concept Artist  Aspiring Technical Artist
+## Game Developer | UE5 Programmer |
 
 ### 🛠️ Tech Stack
 - Unreal Engine 5 (C++ / Blueprint)
