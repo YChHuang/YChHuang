@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Chieh 👋
 
-<!--
-**YChHuang/YChHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Game Developer | UE5 Programmer | Concept Artist  Aspiring Technical Artist
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- Unreal Engine 5 (C++ / Blueprint)
+- Gameplay Ability System
+- Gameplay Programming
+- Blender / PhotoShop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Links
+- 💻 **Game Projects**: [GitHub Repos](#)
+- 🎨 **Art Portfolio**: [ArtStation](https://www.artstation.com/earl_hanlander)
