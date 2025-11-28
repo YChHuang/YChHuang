@@ -11,7 +11,7 @@ My skill set spans multiple domains, and I enjoy building systems end-to-end, fr
 
 ### 🛠 Tech Arsenal
 - **Game Development**: Unreal Engine 5 (UE/C++)  
-- **Art & Design**: 2D/Concept Art, 3D Modeling, Simple Rigging, Animation
+- **Art & Design**: 2D/Concept Art, 3D Modeling, Simple Rigging and Animation
 - **Office Automation Tools**: Python, VBA (workflow tools & automation)  
 
 
